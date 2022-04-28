@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    list-style: none;
+}
+
+ul{
+    padding: 47px 0 0 42px;
+}
+
+.scroll {
+    color: #17233D;
+    font-weight: 400;
+    font-size: 14px;
+    display: inline;
+    margin-left: 32px;
+    cursor: pointer;
+}
+
+#bt-signup{
+    font-weight: 500;
+    background-color: #4CB538;
+    color: #fff;
+    border: 1px;
+    Width: 124px;
+    Height: 51px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+img{
+    padding: 100px 0 0 50px;
+}
+.main-section{
+    display: flex;
+}
+
+.text-director{
+    padding: 150px 0 0 0;
+    gap: 5px;
+    margin: 0 0 0 56px;
+    width: 493px;
+}
+
+h1{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 62px;
+    color: #161A49;
+}
+
+#p1{
+
+    font-weight: 400;
+    padding: 47px 0 55px 0;
+    font-size: 18px;
+    line-height: 33px;
+    line-height: 122%;
+    text-align: Left;
+    vertical-align: Top;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+}
+
+.link-more {
+    font-style: Medium;
+    font-size: 18px;
+    line-height: 27px;
+    line-height: 100%;
+    text-align: Left;
+    vertical-align: Top;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    cursor: pointer;
+}
