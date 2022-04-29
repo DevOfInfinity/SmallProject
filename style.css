@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -8,12 +8,12 @@
     text-decoration: none;
 }
 
-.nav{
+.nav {
     display: flex;
     list-style: none;
 }
 
-ul{
+ul {
     padding: 47px 0 0 42px;
 }
 
@@ -26,7 +26,7 @@ ul{
     cursor: pointer;
 }
 
-#bt-signup{
+#bt-signup {
     font-weight: 500;
     background-color: #4CB538;
     color: #fff;
@@ -38,28 +38,29 @@ ul{
     cursor: pointer;
 }
 
-img{
+img {
     padding: 100px 0 0 50px;
 }
-.main-section{
+
+.main-section {
     display: flex;
 }
 
-.text-director{
+.text-director {
     padding: 150px 0 0 0;
     gap: 5px;
     margin: 0 0 0 56px;
     width: 493px;
 }
 
-h1{
+h1 {
     font-weight: 700;
     font-style: Bold;
     font-size: 62px;
     color: #161A49;
 }
 
-#p1{
+#p1 {
 
     font-weight: 400;
     padding: 47px 0 55px 0;
